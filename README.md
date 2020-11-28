@@ -1,4 +1,4 @@
-# sme
+# SME Market Segmentation
 Segmentation of small and medium sized enterprises (SMEs) into clusters for better insights and market targeting.
 
 How can a bank serve its customers better? How can it better position itself to provide loans to the small and medium sized enterprises (SMEs) to help them in their business?
