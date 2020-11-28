@@ -10,7 +10,7 @@ In this study, the usual data science process is followed to gain insights into 
 [Part 1 - Preparing Data](https://github.com/rickysoo/sme/blob/main/sme01.ipynb)  
 Part 2 - Exploring Data  
 Part 3 - Feature Engineering  
-Part 4 - Model Training
+Part 4 - Model Training  
 Part 5 - Discussion
 
 The conclusion is, compete for today and compete for tomorrow. Go above market segmentation. Be an entrepreneur bank.
